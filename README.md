@@ -1,2 +1,2 @@
-# 1st-py-project
+# project progress
 My first python project using github
